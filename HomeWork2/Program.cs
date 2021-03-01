@@ -132,6 +132,7 @@ namespace HomeWork2
         {
             int tasks = Menu();
             Console.WriteLine("Test commita");
+            Console.WriteLine("Test commita2");
 
             switch (tasks)
             {
