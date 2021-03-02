@@ -131,7 +131,7 @@ namespace HomeWork2
         static void Main(string[] args)
         {
             int tasks = Menu();
-            Console.WriteLine("Еще одно изменения для теста GitHub");
+
             switch (tasks)
             {
                 case 1:
